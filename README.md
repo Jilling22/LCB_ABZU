@@ -7,4 +7,4 @@
 ## Credit
 
 * Profile Artworks by [Bevebevo](https://x.com/1the_mourning)
-* Character creator: [Bevebevo](https://x.com/1the_mourning), [BotBoy](https://x.com/the_abdicating), Mistermadame, [Kilroy](https://x.com/the1nconclusive), Amputated Owl, Kyarashard, Mittverse, Fima, [Grim](https://x.com/GLORY_TONCORP)
+* Character creator: [Bevebevo](https://x.com/1the_mourning), Mistermadame, [Kilroy](https://x.com/the1nconclusive), Amputated Owl, Kyarashard, Mittverse, Fima, [Grim](https://x.com/GLORY_TONCORP)
