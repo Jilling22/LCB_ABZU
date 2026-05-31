@@ -2,13 +2,5 @@
   "UnitKeyword_LIMBUS_COMPANY_LCBA": {
     "id": "UnitKeyword_LIMBUS_COMPANY_LCBA",
     "content": "LCB Ark"
-  },
-  "UnitKeyword_INDEX_FINGER": {
-    "id": "UnitKeyword_INDEX_FINGER",
-    "content": "The Index"
-  },
-  "UnitKeyword_INDEX_LEVEL_MESSENGER": {
-    "id": "UnitKeyword_INDEX_LEVEL_MESSENGER",
-    "content": "Index Messenger"
   }
 }

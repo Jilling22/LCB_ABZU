@@ -1,8 +1,0 @@
-{
-    "2094001": {
-        "a": 0,
-        "id": "2094001",
-        "name": "Playfulness",
-        "desc": "At greater than 50% HP, gain 1 Aggro and 2 [DefenseDown] at the start of the next turn combat phase.\n\n At less than 50% HP, gain 1 [ParryingResultUp] and 1 [Enhancement] at the start of the combat phase instead."
-    }
-}
