@@ -1,0 +1,180 @@
+{
+  "list": [
+    {
+      "id": 9991901,
+      "stageLevel": 30,
+      "stageType": "Normal",
+      "isBatonPassOn": false,
+      "stageEnemyType": "",
+      "battleCameraInfo": {
+        "defaultPosX": 0.0,
+        "defaultPosY": 0.0,
+        "defaultPosZ": 25.0
+      },
+      "includeBoss": 0,
+      "staminaType": "",
+      "staminaCost": 20,
+      "recommendedLevel": 30,
+      "story": {},
+      "questlist": [
+        {
+          "args": ["10"],
+          "localizeId": 1
+        }
+      ],
+      "dangerLevel": 1,
+      "attributeType": "NONE",
+      "attackType": "",
+      "abnormalityEventList": [],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder"],
+      "eventScriptName": "",
+      "participantInfo": {
+        "min": 5,
+        "max": 12
+      },
+
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "CasinoFar"
+          },
+          "unitList": [
+            {
+              "unitID": 90018,
+              "unitCount": 2,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 30
+            }
+          ],
+          "bgmList": ["Battle_Cp9_Enemy_3", "Battle_Cp2_Enemy_1"],
+          "enemyPositionID": 17,
+          "subUnitList": [
+            {
+              "unitID": 90018,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90018,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 30
+            }
+          ]
+        }
+      ],
+      "turnLimit": 99,
+      "rewardList": [],
+      "blockEnemyInfo": false,
+      "forceAllyFormation": false,
+      "hasGoldenBough": false,
+      "hasGoldenBoughGray": false,
+      "unlockDanteAbility": false,
+      "abstainSupporterCharacterIds": [],
+      "lobotomyStageType": 0,
+      "libraryOfRuinaStageType": 0,
+      "sprName": ""
+    },
+    {
+      "id": 9991902,
+      "stageLevel": 30,
+      "stageType": "Normal",
+      "isBatonPassOn": false,
+      "stageEnemyType": "",
+      "battleCameraInfo": {
+        "defaultPosX": 0.0,
+        "defaultPosY": 0.0,
+        "defaultPosZ": 25.0
+      },
+      "includeBoss": 0,
+      "staminaType": "",
+      "staminaCost": 20,
+      "recommendedLevel": 30,
+      "story": {},
+      "questlist": [
+        {
+          "args": ["10"],
+          "localizeId": 1
+        }
+      ],
+      "dangerLevel": 1,
+      "attributeType": "NONE",
+      "attackType": "",
+      "abnormalityEventList": [],
+      "stageScriptList": ["Refill", "SubUnitDefaultSlotAdder"],
+      "eventScriptName": "",
+      "participantInfo": {
+        "min": 5,
+        "max": 12
+      },
+
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "CasinoFar"
+          },
+          "unitList": [
+            {
+              "unitID": 90018,
+              "unitCount": 2,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 30
+            }
+          ],
+          "bgmList": ["Battle_Cp9_Boss_4"],
+          "enemyPositionID": 17,
+          "subUnitList": [
+            {
+              "unitID": 90018,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90018,
+              "unitCount": 1,
+              "unitLevel": 30
+            },
+            {
+              "unitID": 90019,
+              "unitCount": 1,
+              "unitLevel": 30
+            }
+          ]
+        }
+      ],
+      "turnLimit": 99,
+      "rewardList": [],
+      "blockEnemyInfo": false,
+      "forceAllyFormation": false,
+      "hasGoldenBough": false,
+      "hasGoldenBoughGray": false,
+      "unlockDanteAbility": false,
+      "abstainSupporterCharacterIds": [],
+      "lobotomyStageType": 0,
+      "libraryOfRuinaStageType": 0,
+      "sprName": ""
+    }
+  ]
+}

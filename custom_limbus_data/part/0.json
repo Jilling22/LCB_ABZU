@@ -1,0 +1,48 @@
+{
+  "list": [
+    {
+      "id": 3,
+      "sprName": "Part99",
+      "subchapterList": [
+        {
+          "id": 999,
+          "illustSprName": "100",
+          "region": "u",
+          "sprName": "chapter1",
+          "subChapterNumber": "1",
+          "mapSizeRow": 1,
+          "mapSizeColoumn": 2,
+          "stageNodeList": [
+            {
+              "nodeId": 9991901,
+              "stageId": 9991901,
+              "posx": 817,
+              "posy": 935,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 9991902,
+              "stageId": 9991901,
+              "posx": 1558,
+              "posy": 475,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            }
+          ],
+          "nextMainchapterid": 1,
+          "nextSubchapterid": 101,
+          "lastnodeid": 9991902,
+          "voiceBank": "Ch1"
+        }
+      ],
+      "subchapterUIList": [
+        {
+          "chapterId": 1,
+          "subchapterId": 999,
+          "type": "MAIN"
+        }
+      ]
+    }
+  ]
+}
