@@ -9,7 +9,7 @@
         }
       ],
       "requireIDList": [
-        "Modular/TIMING:RoundStart/VALUE_0:mpcheck(self)/IF(VALUE_0<0):buf(Self,AttackUp,1,0,0)"
+        "Modular/TIMING:RoundStart/LUA:ABZU_BlanchotIDPassive/LUAMAIN:baseBlanchotPassive"
       ]
     }
   ]

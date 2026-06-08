@@ -4,14 +4,12 @@
       "id": 21100101,
       "attributeStockCondition": [
         {
-            "value": 3,
+            "value": 0,
             "type": "AMBER"
         }
       ],
       "requireIDList": [
-        "Modular/TIMING:StartBattle/setdata(Self,21140011,0)/setdata(Self,21140012,0)",
-        "Modular/TIMING:StartBattle/LOOP:Enemy99/VALUE_0:bufcheck(Target,Burst,stack)/VALUE_1:getdata(Self,21140011)/CONTINUEIF(VALUE_0>VALUE_1):setdata(Self,21140011,VALUE_0):VALUE_2:instid(Target):setdata(Self,21140012,VALUE_2):VALUE_0:0",
-        "Modular/TIMING:StartBattle/VALUE_0:getdata(Self,21140012)/buf(instVALUE_0,Burst,0,1,0)"
+        "Modular/TIMING:StartBattle/LUA:ABZU_EnkitaIDPassive/LUAMAIN:baseEnkitaPassive"
       ]
     }
   ]
