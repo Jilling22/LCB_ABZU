@@ -11,6 +11,18 @@
       "requireIDList": [
         "Modular/TIMING:RoundStart/LUA:ABZU_BlanchotIDPassive/LUAMAIN:baseBlanchotPassive"
       ]
+    },
+    {
+      "id": 20100102,
+      "attributeResonanceCondition": [
+        {
+            "value": 3,
+            "type": "AZURE"
+        }
+      ],
+      "requireIDList": [
+        "Modular/TIMING:EndBattle/LUA:ABZU_BlanchotIDPassive/LUAMAIN:basesupportBlanchotPassive"
+      ]
     }
   ]
 }

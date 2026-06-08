@@ -8,7 +8,12 @@
           "passiveIDList": [20100101]
         }
       ],
-      "supporterPassiveList": []
+      "supporterPassiveList": [
+                {
+          "level": 3,
+          "passiveIDList": [20100102]
+        }
+      ]
     }
   ]
 }

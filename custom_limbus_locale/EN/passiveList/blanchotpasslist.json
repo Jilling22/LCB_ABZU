@@ -4,5 +4,11 @@
         "id": "20100101",
         "name": "It was drawing circles around me",
         "desc": "At below 0 SP, gain 1 [AttackUp] at the start of the turn."
+    },
+    "20100102": {
+        "a": 0,
+        "id": "20100102",
+        "name": "Toi aussi, tu le veux",
+        "desc": "At the end of the turn, 1 ally with the least SP heal 10 SP."
     }
 }

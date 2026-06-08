@@ -16,7 +16,7 @@
       },
       "PassiveSet": {
         "passiveIdList": [20100101],
-        "supportPassiveIdList": [],
+        "supportPassiveIdList": [20100102],
         "unlockPassiveIdListForUI": []
       },
       "defCorrection": -4,

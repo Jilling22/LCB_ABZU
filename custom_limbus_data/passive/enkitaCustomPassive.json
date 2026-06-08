@@ -4,12 +4,24 @@
       "id": 21100101,
       "attributeStockCondition": [
         {
-            "value": 3,
-            "type": "AMBER"
+          "value": 3,
+          "type": "AMBER"
         }
       ],
       "requireIDList": [
         "Modular/TIMING:StartBattle/LUA:ABZU_EnkitaIDPassive/LUAMAIN:baseEnkitaPassive"
+      ]
+    },
+    {
+      "id": 21100102,
+      "attributeResonanceCondition": [
+        {
+          "value": 4,
+          "type": "AMBER"
+        }
+      ],
+      "requireIDList": [
+        "Modular/TIMING:StartBattle/LUA:ABZU_EnkitaIDPassive/LUAMAIN:basesupportEnkitaPassive"
       ]
     }
   ]

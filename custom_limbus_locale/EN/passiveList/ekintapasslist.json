@@ -4,5 +4,11 @@
         "id": "21100101",
         "name": "Memories",
         "desc": "At the start of the combat phase, 1 Enemies with the most [Burst] Potency get +1 [Burst] Count."
+    },
+    "21100102": {
+        "a": 0,
+        "id": "21100102",
+        "name": "Fading Nostalgia",
+        "desc": "At the start of the combat phase, increase count of all Enemies inflicted with [Burst] by 1."
     }
 }
