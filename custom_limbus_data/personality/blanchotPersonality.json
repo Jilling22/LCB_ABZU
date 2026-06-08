@@ -1,7 +1,7 @@
 {
   "list": [
     {
-      "id": 10140,
+      "id": 101001,
       "appearance": "10101_YiSang_BaseAppearance",
       "unitKeywordList": ["LIMBUS_COMPANY_LCBA", "SMALL"],
       "associationList": ["LIMBUS_COMPANY", "LIMBUS_COMPANY_LCBA"],
@@ -15,12 +15,12 @@
         "incrementByLevel": 3
       },
       "PassiveSet": {
-        "passiveIdList": [2014001],
+        "passiveIdList": [20100101],
         "supportPassiveIdList": [],
         "unlockPassiveIdListForUI": []
       },
       "defCorrection": -4,
-      "defenseSkillIDList": [1014004],
+      "defenseSkillIDList": [10100104],
       "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": ["Default1"],
       "minSpeedList": [2, 2, 3, 3],
@@ -75,15 +75,15 @@
       },
       "attributeList": [
         {
-          "skillId": 1014001,
+          "skillId": 10100101,
           "number": 3
         },
         {
-          "skillId": 1014002,
+          "skillId": 10100102,
           "number": 2
         },
         {
-          "skillId": 1014003,
+          "skillId": 10100103,
           "number": 1
         }
       ]

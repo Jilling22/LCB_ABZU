@@ -1,7 +1,7 @@
 {
   "list": [
     {
-      "id": 11140,
+      "id": 111001,
       "appearance": "11101_Outis_BaseAppearance",
       "unitKeywordList": ["LIMBUS_COMPANY_LCBA", "SMALL"],
       "associationList": ["LIMBUS_COMPANY", "LIMBUS_COMPANY_LCBA"],
@@ -15,12 +15,12 @@
         "incrementByLevel": 2.75
       },
       "PassiveSet": {
-        "passiveIdList": [2114001],
+        "passiveIdList": [21100101],
         "supportPassiveIdList": [],
         "unlockPassiveIdListForUI": []
       },
       "defCorrection": -2,
-      "defenseSkillIDList": [1114004],
+      "defenseSkillIDList": [11100104],
       "panicSkillOnErosion": 1000104,
       "slotWeightConditionList": ["Default1"],
       "minSpeedList": [3, 3, 4, 4],
@@ -75,15 +75,15 @@
       },
       "attributeList": [
         {
-          "skillId": 1114001,
+          "skillId": 11100101,
           "number": 3
         },
         {
-          "skillId": 1114002,
+          "skillId": 11100102,
           "number": 2
         },
         {
-          "skillId": 1114003,
+          "skillId": 11100103,
           "number": 1
         }
       ]

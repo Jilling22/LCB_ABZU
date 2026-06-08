@@ -1,19 +1,19 @@
 {
-    "11140": {
+    "111001": {
         "a": 0,
-        "id": "11140",
+        "id": "111001",
         "name": "Enkita",
         "desc": "",
-        "title": "Enkita (LCB Abzu Sinner)",
+        "title": "Enkita",
         "acquisitionMethod": "Unknown",
         "oneLineTitle": ""
     },
-    "10140": {
+    "101001": {
         "a": 0,
-        "id": "10140",
+        "id": "101001",
         "name": "Blanchot",
         "desc": "",
-        "title": "Blanchot (LCB Abzu Sinner)",
+        "title": "Blanchot",
         "acquisitionMethod": "Unknown",
         "oneLineTitle": ""
     },
