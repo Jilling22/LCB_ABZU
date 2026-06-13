@@ -5,11 +5,11 @@
 -- Passive "Memories" ("id" = 21100101)
 
 function baseEnkitaPassive()
-    local unit = selecttargets("Enemy99")
+    local enemyList = selecttargets("Enemy99")
     local enemyIDHighestBurst = nil
     local highestBurstStack = 0
     -- compare Burst stack of all enemies and find the one with the highest Burst stack
-    for i, instID in ipairs(unit) do
+    for i, instID in ipairs(enemyList) do
         if getbuff(instID, "Burst", "stack") > highestBurstStack then
             highestBurstStack = getbuff(instID, "Burst", "stack")
             enemyIDHighestBurst = instID
@@ -20,6 +20,9 @@ end
 
 -- Passive "Fading Nostalgia" ("id" = 21100102)
 function basesupportEnkitaPassive()
+    if issameunit("Self", "Ally1") == 0 then return end
+    if getunitfaction("Self") == 0 then return end
+
     local enemyList = selecttargets("Enemy99")
     -- give Burst to all enemies with Burst
     for i, instID in ipairs(enemyList) do

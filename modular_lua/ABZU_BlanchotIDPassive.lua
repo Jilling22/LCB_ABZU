@@ -5,7 +5,7 @@
 -- Passive "It was drawing circles around me" ("id" = 20100101)
 
 function baseBlanchotPassive()
-    local spcheck = getsp()
+    local spcheck = getsp("Self")
     if spcheck < 0 then
         -- Apply AttackUp to self if SP is below 0 at the start of the turn
         buff("Self", "AttackUp", 1, 0, 0)
@@ -15,12 +15,9 @@ end
 -- Support Passive "Toi aussi, tu le veux" ("id" = 20100102)
 
 function basesupportBlanchotPassive()
-    local allyList = selecttargets("Ally99")
-    local lowestSPInstID = allyList[random(1, #allyList)]
-    for i, instID in ipairs(allyList) do
-        if getsp(instID) < getsp(lowestSPInstID) then
-            lowestSPInstID = instID
-        end
-    end
-    healsp(lowestSPInstID, 10)
+    if issameunit("Self", "LowestSPAlly1") == 0 then return end
+    if getunitfaction("Self") == 0 then return end
+
+    local randomally = selecttargets("LowestSPRandomAlly1")[1]
+    healsp(randomally, 10)
 end
