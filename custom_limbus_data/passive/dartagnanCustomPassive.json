@@ -1,0 +1,28 @@
+{
+  "list": [
+    {
+      "id": 21200101,
+      "attributeStockCondition": [
+        {
+          "value": 3,
+          "type": "INDIGO"
+        }
+      ],
+      "requireIDList": [
+        "Modular/TIMING:WhenUse/LUA:ABZU_DartagnanIDPassive/LUAMAIN:baseDartagnanPassive"
+      ]
+    },
+    {
+      "id": 21200102,
+      "attributeResonanceCondition": [
+        {
+          "value": 3,
+          "type": "INDIGO"
+        }
+      ],
+      "requireIDList": [
+        "Modular/TIMING:BeforeAttack/LUA:ABZU_DartagnanIDPassive/LUAMAIN:basesupportDartagnanPassive"
+      ]
+    }
+  ]
+}

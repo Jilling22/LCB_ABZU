@@ -1,0 +1,14 @@
+{
+    "21200101": {
+        "a": 0,
+        "id": "21200101",
+        "name": "The Right of Way Priority",
+        "desc": "Clash Power +1 against slower enemies."
+    },
+    "21200102": {
+        "a": 0,
+        "id": "21200102",
+        "name": "Support",
+        "desc": "1 Fastest Ally deal +20% damage with Pierce attack skills."
+    }
+}

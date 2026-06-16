@@ -1,0 +1,98 @@
+{
+  "11200101": {
+    "levelList": [
+      {
+        "level": 1,
+        "desc": "",
+        "name": "En Garde",
+        "rawDesc": "",
+        "abName": "",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] Inflict 1 [Binding]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "11200102": {
+    "levelList": [
+      {
+        "level": 1,
+        "desc": "[WinDuel] Gain 1 [Agility] next turn",
+        "name": "Allez",
+        "rawDesc": "",
+        "abName": "",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] Inflict 1 [Burst]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] Inflict 1 [Burst]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [{}]
+          }
+        ]
+      }
+    ]
+  },
+  "11200103": {
+    "levelList": [
+      {
+        "level": 3,
+        "desc": "[WinDuel] Inflict 1 [Reduction]",
+        "name": "Salute",
+        "rawDesc": "",
+        "abName": "",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] Inflict 1 [Burst]",
+                "summary": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "11200104": {
+    "levelList": [
+      {
+        "level": 1,
+        "desc": "",
+        "name": "Evade",
+        "rawDesc": "",
+        "abName": "",
+        "coinlist": [
+          {
+            "coindescs": [{}]
+          }
+        ]
+      }
+    ]
+  }
+}
