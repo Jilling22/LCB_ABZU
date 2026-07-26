@@ -6,5 +6,5 @@
 
 ## Credit
 
-* Profile Artworks by [Bevebevo](https://x.com/1the_mourning)
-* Character creator: [Bevebevo](https://x.com/1the_mourning), Mistermadame, [Kilroy](https://x.com/the1nconclusive), Amputated Owl, Kyarashard, Mittverse, Fima, [Grim](https://x.com/GLORY_TONCORP)
+* Profile Artworks by [Bevebevo](https://x.com/bevo_rage)
+* Character creator: [Bevebevo](https://x.com/bevo_rage), [Gavin](https://x.com/mistermadame) , [Kilroy](https://x.com/DepravedKiller2), Amputated Owl, [Kyarashard](https://x.com/KyaraShard), [Rubblegum](https://x.com/rubblegumm), [Roxy](https://x.com/Ponatofromspace), Mittverse, Jackolof, The secret tenth shadow member
