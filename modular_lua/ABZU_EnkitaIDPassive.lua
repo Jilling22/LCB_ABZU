@@ -6,12 +6,10 @@
 
 function baseEnkitaPassive()
     local enemyList = selecttargets("Enemy99")
-    local enemyIDHighestBurst = nil
-    local highestBurstStack = 0
+    local enemyIDHighestBurst = enemyList[random(1, #enemyList)]
     -- compare Burst stack of all enemies and find the one with the highest Burst stack
     for i, instID in ipairs(enemyList) do
-        if getbuff(instID, "Burst", "stack") > highestBurstStack then
-            highestBurstStack = getbuff(instID, "Burst", "stack")
+        if getbuff(instID, "Burst", "stack") > getbuff(enemyIDHighestBurst, "Burst", "stack") then
             enemyIDHighestBurst = instID
         end
     end

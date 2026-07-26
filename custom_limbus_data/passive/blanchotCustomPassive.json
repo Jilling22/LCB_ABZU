@@ -16,8 +16,8 @@
       "id": 20100102,
       "attributeResonanceCondition": [
         {
-            "value": 3,
-            "type": "AZURE"
+          "value": 3,
+          "type": "AZURE"
         }
       ],
       "requireIDList": [
